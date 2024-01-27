@@ -39,9 +39,6 @@ selenamagdane@gmail.com
 franlimarrero17@gmail.com 
 ivannid.n.c@gmail.com
 
-## Dificulatdes
-  *¿Qué dificultades tuvimos?*
-  -
 
 ## Notas de la versión 
 Detalles sobre las versiones anteriores y cambios en la versión actual. (Borrador y maquetación hechos en Figma y Canva).
